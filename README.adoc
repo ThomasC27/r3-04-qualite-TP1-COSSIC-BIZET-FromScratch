@@ -66,3 +66,4 @@ mvn javadoc:javadoc
 Pour le rendu de ce TP, veuillez inclure les fichiers sources (`src`), le fichier `pom.xml` mis à jour, et la documentation JavaDoc générée dans votre dépôt.
 
 N'hésitez pas à ajouter d'autres informations pertinentes à la documentation de votre projet au besoin.
+ 
